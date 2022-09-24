@@ -1,4 +1,4 @@
-# INT203_ProjectGroup_122
+# INT203_ProjectGroup_24 Game
 Project group is 24 game
 
 ## About Project
